@@ -1,4 +1,4 @@
-# PA3: Fractals
+# Fractals
  This repository is part of a Programming Assignment for the Advanced Programming Course.
 
 ## Setup
